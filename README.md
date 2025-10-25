@@ -1,2 +1,2 @@
 # Ollama
-Check the demonstration of Ollama Base Model Gemma-3B 
+Check the demonstration of Ollama Base Model Gemma-3B Using Juypter Notebook
