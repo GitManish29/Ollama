@@ -1,15 +1,36 @@
 {
   "name": "ollama",
   "version": "1.0.0",
-  "description": "",
+  "description": "Demonstration of Ollama Base Model Gemma-3B using Jupyter Notebook",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GitManish29/Ollama.git"
+  },
+  "homepage": "https://github.com/GitManish29/Ollama#readme",
+  "bugs": {
+    "url": "https://github.com/GitManish29/Ollama/issues"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "ollama",
+    "gemma",
+    "jupyter",
+    "notebook",
+    "machine-learning",
+    "ai",
+    "badge-maker"
+  ],
+  "author": "Manish Verma <116821044+GitManish29@users.noreply.github.com> (https://github.com/GitManish29)",
+  "license": "GPL-3.0",
   "dependencies": {
     "badge-maker": "^5.5.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
   }
 }
