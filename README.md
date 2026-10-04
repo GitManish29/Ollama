@@ -15,8 +15,6 @@ Check the demonstration of Ollama Base Model Gemma-3B Using Jupyter Notebook
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons)](https://skillicons.dev)
-
 ---
 
 ## 📋 Table of Contents
