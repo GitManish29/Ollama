@@ -9,6 +9,12 @@ Check the demonstration of Ollama Base Model Gemma-3B Using Jupyter Notebook
   <a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square" /></a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,npm,nidejs"/>
+  </a>
+</p>
+
 [![My Skills](https://skillicons.dev/icons)](https://skillicons.dev)
 
 ---
